@@ -1,0 +1,8 @@
+<graph id="teste" edgedefault="unidirected">
+  <node id="a"/>
+  <node id="b"/>
+  <node id="c"/>
+  <edge id="1" source="a" target="b"/>
+  <edge id="2" source="b" target="c"/>
+  <edge id="3" source="c" target="a"/>
+</graph>
